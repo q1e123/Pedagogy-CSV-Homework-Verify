@@ -1,0 +1,4 @@
+bad
+good
+tema_copy
+tema_copy_2
